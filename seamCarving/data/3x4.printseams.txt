@@ -1,0 +1,21 @@
+./data/3x4.jpg (3-by-4 image)
+
+The table gives the dual-gradient energies of each pixel.
+The asterisks denote a minimum energy vertical or horizontal seam.
+
+Vertical seam: { 2 2 2 2 }
+ 144.28   226.30   142.88* 
+ 143.58   225.43   143.60* 
+ 144.99   227.19   142.86* 
+ 142.88   223.65   142.90* 
+Total energy = 572.225865
+
+
+Horizontal seam: { 3 3 2 }
+ 144.28   226.30   142.88  
+ 143.58   225.43   143.60  
+ 144.99   227.19   142.86* 
+ 142.88*  223.65*  142.90  
+Total energy = 509.384684
+
+
