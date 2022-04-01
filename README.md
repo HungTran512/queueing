@@ -1,2 +1,2 @@
-# queueing
-Implementing randomize queue and deque
+# Seam Carving
+Modifying Pictures base on energy level
